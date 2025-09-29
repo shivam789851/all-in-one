@@ -146,4 +146,4 @@ esac
 # -------------------------
 # Footer
 # -------------------------
-echo -e "${CYAN}Made by shivamdivyanshbrother${RESET}"
+echo -e "${CYAN}Made by SHIVAM${RESET}"
