@@ -22,8 +22,8 @@ animate_logo() {
   \___ \  |  __  |   | |     \ \/ /     / /\ \   | |\/| |
   ____) | | |  | |  _| |_     \  /     / ____ \  | |  | |
  |_____/  |_|  |_| |_____|     \/     /_/    \_\ |_|  |_|
-                                                         
-                                                         
+  "                                                     "
+   "                                                    "  
   for line in "${logo[@]}"; do
     echo -e "${CYAN}${line}${RESET}"
     sleep 0.05
@@ -193,3 +193,4 @@ goodbye() {
 # Run
 main
 goodbye
+
